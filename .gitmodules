@@ -1,0 +1,3 @@
+[submodule "WebContent/common2"]
+	path = WebContent/common2
+	url = https://github.com/a2gomoney/common.git
